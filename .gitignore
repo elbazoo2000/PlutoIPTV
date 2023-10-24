@@ -1,5 +1,4 @@
 node_modules/*
 cache.json
-
 epg.xml
 proxy/index.js
